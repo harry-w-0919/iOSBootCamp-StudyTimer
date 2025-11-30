@@ -18,3 +18,10 @@ This is a list of functions that this application has implemented.
 6. Alert Syntax: https://developer.apple.com/documentation/swiftui/view/alert(_:ispresented:presenting:actions:message:)-8584l
 
 ## Preview of StudyTimer
+<p align="center">
+  <img src="" width="150"/>
+  <img src="" width="150"/>
+  <img src="" width="150"/>
+  <img src="" width="150"/>
+  <img src="" width="150"/>
+</p>
