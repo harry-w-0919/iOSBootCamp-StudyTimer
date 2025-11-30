@@ -17,6 +17,17 @@ This is a list of functions that this application has implemented.
 5. onChange Function (Used by displaying the API sentences): https://developer.apple.com/documentation/swiftui/view/onchange(of:initial:_:)-4psgg
 6. Alert Syntax: https://developer.apple.com/documentation/swiftui/view/alert(_:ispresented:presenting:actions:message:)-8584l
 
+## API Usage
+API Link: https://docs.zenquotes.io/zenquotes-documentation/
+
+## Obstacles and Future Improvements
+During the API setup process, it did take some time to align the Codable section to the API requirements. Apart from current settings, there are several other improvements that could be done in the future. 
+1. Implementing the User Notification function to let the user know that "time's up" instead of only using the Alert function.
+2. Managing user data with SwiftData.
+3. Using a progress ring to demonstrate the count-down timer instead of using a progress ring.
+4. Improve UI design.
+5. Add more functions to "todo list", like adding importance/time-needed/locations...
+
 ## Preview of StudyTimer
 <p align="center">
   <img src="https://github.com/harry-w-0919/iOSBootCamp-StudyTimer/blob/main/img01.png" width="120"/>
