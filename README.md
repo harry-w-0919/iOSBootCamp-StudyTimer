@@ -19,9 +19,9 @@ This is a list of functions that this application has implemented.
 
 ## Preview of StudyTimer
 <p align="center">
-  <img src="" width="150"/>
-  <img src="" width="150"/>
-  <img src="" width="150"/>
-  <img src="" width="150"/>
-  <img src="" width="150"/>
+  <img src="https://github.com/harry-w-0919/iOSBootCamp-StudyTimer/blob/main/img01.png" width="150"/>
+  <img src="https://github.com/harry-w-0919/iOSBootCamp-StudyTimer/blob/main/img02.png" width="150"/>
+  <img src="https://github.com/harry-w-0919/iOSBootCamp-StudyTimer/blob/main/img03.png" width="150"/>
+  <img src="https://github.com/harry-w-0919/iOSBootCamp-StudyTimer/blob/main/img04.png" width="150"/>
+  <img src="https://github.com/harry-w-0919/iOSBootCamp-StudyTimer/blob/main/img05.png" width="150"/>
 </p>
