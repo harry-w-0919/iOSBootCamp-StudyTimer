@@ -2,7 +2,6 @@ import SwiftUI
 import SwiftData
 
 @main
-// main struct.
 struct StudyTimerApp: App {
     var body: some Scene {
         WindowGroup {
